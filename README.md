@@ -61,7 +61,7 @@ O projeto utiliza as seguintes bibliotecas:
    Após a instalação das dependências, basta executar o arquivo Python da calculadora:
 
    ```bash
-   python calculadora.py
+   python CalculadoraAvancado.py
    ```
 
    O menu interativo será exibido no terminal, e você poderá escolher a operação desejada.
